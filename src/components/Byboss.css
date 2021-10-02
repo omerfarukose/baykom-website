@@ -1,0 +1,53 @@
+.bayboss{
+    width: 100%;
+    padding-top: 100px;
+    border-bottom: solid rgb(221, 140, 73) 5px;   
+}
+
+.container-bir{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.name{
+    font-size: 200px;
+    align-self: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.text{
+    margin-top: -15px;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 65px;
+}
+
+.list{
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;   
+    margin-bottom: 100px; 
+    letter-spacing: 1.5px;
+
+}
+
+.list ul{
+    list-style: none;
+}
+
+.list li{
+    margin-bottom: 5px;
+}
+
+.list i{
+    margin-right: 18px;
+}
+
+.bayboss-logo{
+    width: 100%;
+}
+
